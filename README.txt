@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for your **Hotel Management Website** project built with **React**, **HTML**, **CSS/Tailwind CSS**, and **JavaScript**. It includes clear setup instructions, feature descriptions, and optional enhancements.
-
----
 
 # 🏨 Hotel Management System (Frontend)
 
@@ -67,7 +64,7 @@ hotel-management/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hotel-management.git
+   git clone https://github.com/tushantsuryawanshi/hotel-management.git
    cd hotel-management
    ```
 
@@ -139,9 +136,6 @@ This project is licensed under the **MIT License** – you're free to use, modif
 
 Have questions or feedback?
 
-**Email:** yourname@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Email:**  tushantsuryawanshi159@gmail.com 
 
 ---
-
-Would you like the full React project starter code scaffold as well?
